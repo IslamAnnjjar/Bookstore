@@ -1,0 +1,12 @@
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\bin\Debug\net6.0\Bookstore.Core.deps.json
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\bin\Debug\net6.0\Bookstore.Core.dll
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\bin\Debug\net6.0\Bookstore.Core.pdb
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.csproj.AssemblyReference.cache
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.AssemblyInfoInputs.cache
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.AssemblyInfo.cs
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.dll
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\refint\Bookstore.Core.dll
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.pdb
+C:\Users\Islam\source\repos\Bookstore\Bookstore.Core\obj\Debug\net6.0\ref\Bookstore.Core.dll
